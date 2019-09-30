@@ -1,2 +1,1 @@
-# src
-to research firewoeks algorithm
+# research firewoeks algorithm
